@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My ApplicationXML</string>
+    <string name="hello_my_friend">Hello my friend!!!\n</string>
+    <string name="login">Введите логин</string>
+    <string name="email">Введите email</string>
+    <string name="password">Введите пароль</string>
+    <string name="registrationale">Регистрация</string>
+    <string name="auth">Войти</string>
+    <string name="reg">Зарегестрироватся</string>
+</resources>
